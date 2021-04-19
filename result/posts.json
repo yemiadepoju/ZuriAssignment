@@ -1,0 +1,1 @@
+{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"jsonplaceholder.typicode.com","port":80,"hostname":"jsonplaceholder.typicode.com","hash":null,"search":null,"query":null,"pathname":"/posts","path":"/posts","href":"http://jsonplaceholder.typicode.com/posts"},"method":"GET","headers":{"host":"jsonplaceholder.typicode.com","accept":"application/json"}}
